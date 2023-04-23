@@ -16,6 +16,7 @@ Afterwards, the user is asked how many euros they want to bet on each combinatio
                           |[28, 37, 73]                 3.0€             
                         +------------------------------------------+
 
+
 The program ends with a combination of numbers and the prize in case of winning.
 
 A ticket like this will be generated:
