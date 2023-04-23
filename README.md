@@ -9,12 +9,12 @@ The program asks the user to specify the number of lotto game extractions they w
 Afterwards, the user is asked how many euros they want to bet on each combination (e.g. two numbers, three numbers, etc.):
 
 
-+-------------------------------+----------+
-|             Lotto             | Ticket 1 |
-+-------------------------------+----------+
-| terno on bari                            
-|[28, 37, 73]                 3.0€             
-+------------------------------------------+
+                        +-------------------------------+----------+
+                             Lotto             | Ticket 1 |
+                        +-------------------------------+----------+
+                        | terno on bari                            
+                          |[28, 37, 73]                 3.0€             
+                        +------------------------------------------+
 
 The program ends with a combination of numbers and the prize in case of winning.
 
